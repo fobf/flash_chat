@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548181853908",
+    "project_id": "flash-chat-a6332",
+    "storage_bucket": "flash-chat-a6332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548181853908:android:a38b007d592f23c6041d41",
+        "android_client_info": {
+          "package_name": "fobfreeman.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548181853908-3np61kqhp6s2u5mo32tp8ifbco7ln677.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZrshAhzpfD8sth2gp4b3IETCl6mhLM9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548181853908-3np61kqhp6s2u5mo32tp8ifbco7ln677.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
